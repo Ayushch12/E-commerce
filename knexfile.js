@@ -1,4 +1,4 @@
-// Update with your config settings.
+// Update with your config settingsnwediuew ekwjnewlkj weoidjewpo oeiwdjewoi oiwedjewoi oi dwne dwend.
 
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
