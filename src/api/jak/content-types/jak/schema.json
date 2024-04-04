@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jaks",
+  "info": {
+    "singularName": "jak",
+    "pluralName": "jaks",
+    "displayName": "jak"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "weqdewfqwe": {
+      "type": "string"
+    }
+  }
+}
