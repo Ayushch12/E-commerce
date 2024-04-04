@@ -2,10 +2,10 @@
 
 module.exports = {
   /**
-   * An asynchronous register function that runs before
+   * An asynchronous r
    * your application is initialized.
    *
-   * This gives you an opportunity to extend code.
+   * This gives you an .
    */
   register(/*{ strapi }*/) {},
 
@@ -13,8 +13,8 @@ module.exports = {
    * An asynchronous bootstrap function that runs before
    * your application gets started.
    *
-   * This gives you an opportunity to set up your data model,
-   * run jobs, or perform some special logic.
+   * This gives ,
+   * run jobs.
    */
   bootstrap(/*{ strapi }*/) {},
 };
